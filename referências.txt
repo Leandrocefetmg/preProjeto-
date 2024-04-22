@@ -1,1 +1,17 @@
+Tema: Alternadores automotivos pilotados 
+
+Possível professor orientador: Alencar
+
+Lista de Referencias:
+
+[1]	RAUTEON, Drano. O Alternador Automotivo. [S. l.], 2020. Disponível em: https://www.hardwarecentral.net/single-post/o-alternador-automotivo. Acesso em: 5 abr. 2024.
+
+[2]	OLIVEIRA, Geraldo do Carmo Santos; SIMEÃO, Juliano Daniel. Alternadores, uma fonte eficiente de energia automotiva. In: SEMANA OFICIAL DA ENGENHARIA E DA AGRONOMIA, 75., 2018, Maceió. Itaúna: Congresso Técnico Científico da Engenharia e		da	Agronomia,	2018.	p.	1-5.	Disponível	em: https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ww w.confea.org.br/sites/default/files/antigos/contecc2018/mecanica/2_aufedea.pdf&ved=2 ahUKEwjTkJyJv6uFAxVypJUCHcWvBSgQFnoECBEQAQ&usg=AOvVaw3q5hsMPc-
+-FVRhn4jYzoQz. Acesso em: 5 abr. 2024.
+
+[3]	ASHFAQ, Ahmed. Eletrônica de potência. 1. ed. [S. l.]: Pearson Prentice Hall, 2000. 484 p. ISBN 978-85-87918-03-1.
+
+[4]	MALVINO, Albert; BATES, David. Eletrônica. 8. ed. Porto Alegre: Amgh Editora Ltda., 2016. 500 p.
+
+[5]	NAGATA, F. E. Aplicação de alternadores com interface LIN para veículos comerciais pesados. repositorio.utfpr.edu.br, 4 fev. 2016. Disponível em: http://repositorio.utfpr.edu.br/jspui/handle/1/19827. Acesso em: 5 abr. 2024.
 
